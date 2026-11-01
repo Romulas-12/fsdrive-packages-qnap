@@ -1,0 +1,19 @@
+{
+  "version": "0.4.2",
+  "published": "2026-11-01T10:59:56+00:00",
+  "source": "https://romulas-12.github.io/fsdrive-packages-qnap/repo.xml",
+  "files": [
+    {
+      "arch": "arm_64",
+      "url": "https://romulas-12.github.io/fsdrive-packages-qnap/FSDrive_0.4.2_arm_64.qpkg",
+      "size": 31711131,
+      "sha256": "d08188f39e4d10f10d069cc787bedad55ba20eab4c7afbc6527adbb72baf6334"
+    }
+  ],
+  "snapshots": [
+    "snapshots/qnap-1-users.png",
+    "snapshots/qnap-2-general.png",
+    "snapshots/qnap-3-storage.png",
+    "snapshots/qnap-4-access.png"
+  ]
+}
